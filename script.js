@@ -17,7 +17,7 @@ function enter()
 		{
 		clicked1(bi[i]);i++;
 	}
-	},0);
+	},500);
 }
 
 
